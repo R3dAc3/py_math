@@ -1,2 +1,2 @@
 # py_math
-How I learned Python 3 math
+Basic Python 3 math
